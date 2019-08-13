@@ -40,6 +40,7 @@
 				<form:input path="year" class="form-control w200" />
 			</div>
 			<hr />
+			
 			<div>
 				<button type="submit" class="btn btn-primary">
 					<span class="glyphicon glyphicon-ok"></span> 저장
